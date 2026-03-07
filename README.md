@@ -1,1 +1,1 @@
- reliable code while exploring 
+ while exploring 
