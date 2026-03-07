@@ -1,1 +1,1 @@
-A  dedicated to building strong, reliable code while exploring new development horizons and innovative solutions.
+ reliable code while exploring new development horizons and innovative solutions.
