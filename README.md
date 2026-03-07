@@ -1,1 +1,1 @@
- reliable code while exploring new development horizons 
+ reliable code while exploring 
