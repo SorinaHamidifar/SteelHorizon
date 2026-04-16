@@ -46,7 +46,7 @@ Module focused on strong, reliable system behavior.
 import statistics
 
 
-class ReliabilityEngine:
+class :
     """Handles stability checks and safe execution of code."""
 
     def stability_index(self, values):
