@@ -8,7 +8,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for Horizon Fo.
+Main entry point for Horizon .
 """
 
 from core.reliability import ReliabilityEngine
