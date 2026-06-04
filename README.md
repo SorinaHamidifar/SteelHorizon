@@ -8,7 +8,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for Hori .
+Main entry point for  .
 """
 
 from core.reliability import ReliabilityEngine
