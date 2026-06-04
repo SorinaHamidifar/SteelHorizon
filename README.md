@@ -8,7 +8,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for Horiz .
+Main entry point for HorizonF .
 """
 
 from core.reliability import ReliabilityEngine
