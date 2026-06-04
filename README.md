@@ -8,7 +8,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for Horizon Forge.
+Main entry point for Horizon Fo.
 """
 
 from core.reliability import ReliabilityEngine
