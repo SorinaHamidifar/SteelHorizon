@@ -8,7 +8,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for Horizon .
+Main entry point for Hori .
 """
 
 from core.reliability import ReliabilityEngine
