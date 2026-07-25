@@ -11,7 +11,7 @@
 Main entry point for HorizonForge.
 """
 
-from core.reliability import Reliab
+from core.reliability import Reliabilit
 from core.innovation import HorizonExplorer
 
 
