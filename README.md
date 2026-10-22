@@ -1,5 +1,5 @@
 # ==========================================
-# Project: HorizonForge and innovative sol
+# Project: HorizonForge and innovative 
 # Description:
 # A repository dedicated to building strong, reliable code
 # while exploring new development horizons and innovative solutions.
